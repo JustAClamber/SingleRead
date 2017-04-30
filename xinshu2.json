@@ -1,0 +1,877 @@
+{
+    "status": "ok",
+    "datas": [
+        {
+            "id": "292678",
+            "uid": "350127",
+            "name": "",
+            "title": "记者王国",
+            "excerpt": "《纽约时报》以其客观冷静被认为是最可靠的历史记录者。前时报记者盖伊·特立斯采访近百名时报人，回溯这家报纸的百年历史，描摹上世纪媒体人的生活群像。",
+            "lead": "“他们的作品不断地发表，但差不多也不断地被忘掉，于是他们必须不停地寻找新的东西，必须靠副业生活，不能让别人抢先发了新闻，必须去填塞报纸和电视得不到满足的胃口，满足商业对新的面孔、时尚、爱好、怨恨的渴望。”",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-08-29/57c3e1c19ea24.jpg",
+            "create_time": "1472515200",
+            "update_time": "2016/08/30",
+            "tags": [
+                {
+                    "name": "纽约时报"
+                },
+                {
+                    "name": "书摘"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "7.3w",
+            "share": "http://static.owspace.com/wap/292678.html",
+            "comment": "20",
+            "good": "17",
+            "bookmark": "0",
+            "show_uid": "350127",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292678.html",
+            "author": "盖伊·特立斯",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/1.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292599",
+            "uid": "343240",
+            "name": "",
+            "title": "无常素描",
+            "excerpt": "基耶斯洛夫斯基的作品，无论是纪录片或是剧情片，其题材形式乃至摄影构图，总是连系着不同的呼应。一个导演一生的作品，不过是一部电影的重复与变奏。",
+            "lead": "一个导演一生只拍一部电影，然后他将它打破解构并且重新塑造。——让·雷诺",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-08-24/57bd4ac83424e.jpg",
+            "create_time": "1472342400",
+            "update_time": "2016/08/28",
+            "tags": [
+                {
+                    "name": "电影"
+                },
+                {
+                    "name": "基耶斯洛夫斯基"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "4.8w",
+            "share": "http://static.owspace.com/wap/292599.html",
+            "comment": "8",
+            "good": "10",
+            "bookmark": "0",
+            "show_uid": "343240",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292599.html",
+            "author": "罗展凤",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/4.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292457",
+            "uid": "329602",
+            "name": "",
+            "title": "肉与稻米",
+            "excerpt": "日本与西方文化的差异，就像稻米之于肉的对立。在西方饮食的冲击下，当代日本人通过构建自己的食物，来重申他们的自我。",
+            "lead": "苏珊·桑塔格曾作论文《作为隐喻的疾病》，探究文学中肺结核的呈现是如何体现社会观念的。被应用于日常生活中的隐喻，或如学者所说“我们生活所依的隐喻”，在人们的意识里并不总是很清楚，但已成为一种支配符号，揭示文化和社会的意义。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-08-25/57becc9662b47.jpg",
+            "create_time": "1472169600",
+            "update_time": "2016/08/26",
+            "tags": [
+                {
+                    "name": "饮食"
+                },
+                {
+                    "name": "日本"
+                },
+                {
+                    "name": "文化"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "7.7w",
+            "share": "http://static.owspace.com/wap/292457.html",
+            "comment": "15",
+            "good": "21",
+            "bookmark": "0",
+            "show_uid": "329602",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292457.html",
+            "author": "大贯惠美子",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/1.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292598",
+            "uid": "343128",
+            "name": "",
+            "title": "古老的土地",
+            "excerpt": "【首发】印度作家阿米塔夫·高希以一个旁观者的身份走进埃及的婚礼，他无法享受和理解这片古老土地上的文化和习俗。这是空间上的阻碍，也是时间上的隔绝。",
+            "lead": "我明白，他们和他们日常生活中的物件的关系，从来都和对别的地方，别的没有泥墙屋和牛拉犁的国家的认知有关，所以那些物件，房子和犁，都是无形的东西，是流离在时间中的鬼魂，等待着被驱逐，被埋葬。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-08-24/57bda68b26116.jpg",
+            "create_time": "1472083200",
+            "update_time": "2016/08/25",
+            "tags": [
+                {
+                    "name": "埃及"
+                },
+                {
+                    "name": "习俗"
+                },
+                {
+                    "name": "文化"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "5.1w",
+            "share": "http://static.owspace.com/wap/292598.html",
+            "comment": "7",
+            "good": "19",
+            "bookmark": "0",
+            "show_uid": "343128",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292598.html",
+            "author": "阿米塔夫·高希",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/3.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292544",
+            "uid": "336057",
+            "name": "",
+            "title": "往来于故土\r\n之间",
+            "excerpt": "【首发】掩盖过去，美化悲伤，守灵是爱尔兰人的传统，也是他们的人生哲学。爱尔兰裔美籍作家托马斯·林奇几十年往返故土，回溯家族历史的魂灵。",
+            "lead": "爱尔兰人清楚知道当最坏的已经发生，最好的也就似乎更可能发生。他们视守灵为安慰和好转的场合。——托马斯·林奇",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-08-20/57b7d2d8d90b2.png",
+            "create_time": "1471737600",
+            "update_time": "2016/08/21",
+            "tags": [
+                {
+                    "name": "葬礼"
+                },
+                {
+                    "name": "守灵"
+                },
+                {
+                    "name": "爱尔兰"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "4.5w",
+            "share": "http://static.owspace.com/wap/292544.html",
+            "comment": "13",
+            "good": "39",
+            "bookmark": "0",
+            "show_uid": "336057",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292544.html",
+            "author": "托马斯·林奇",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/1.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292468",
+            "uid": "332539",
+            "name": "",
+            "title": "我一直被称为\r\n卢德分子",
+            "excerpt": "“卢德分子”被用来指称仇视新奇发明的人。因为新事物的取代，人们的生活被剥夺，混混度日。这会不会让如今被科技、信息包裹的你想到自己？",
+            "lead": "“科幻”、“黑色幽默”是缠绕着冯内古特的字眼。当他封笔多年重出江湖时，带来的非虚构评论作品流露的是批判与忧患。他坦言自己是“卢德分子”。人们惯用“卢德分子”指称因工业革命备受失业困扰，却未意识到资本主义本质而拿机器解气的工人阶级，但在网络时代，“卢德主义”是否又具备了新的意义？",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-08-17/57b43204db124.jpg",
+            "create_time": "1471478400",
+            "update_time": "2016/08/18",
+            "tags": [
+                {
+                    "name": "卢德主义"
+                },
+                {
+                    "name": "社会"
+                },
+                {
+                    "name": "文明"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "5.4w",
+            "share": "http://static.owspace.com/wap/292468.html",
+            "comment": "42",
+            "good": "44",
+            "bookmark": "0",
+            "show_uid": "332539",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292468.html",
+            "author": "库尔特·冯内古特",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/2.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292456",
+            "uid": "328305",
+            "name": "",
+            "title": "生活的坏演员",
+            "excerpt": "2013年布克奖得主戴维斯的短篇小说。庸常的生活不断给人压力，可总有些勇敢的坏演员，不断向生活中的角色发起挑战，他们不畏惧外界也不畏惧自己。",
+            "lead": "事实上，他是个坏演员，但他的表演中有一种令人印象深刻的东西：他沉重的决心，他狂暴的感情。他的表情中显示着过去几个月里全部的伤害、耻辱和嘲笑。他正色说：“他们觉得我一文不值。他们爱怎么想就怎么想好了。我自有计划。”",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-08-14/57b0550693fec.jpg",
+            "create_time": "1471219200",
+            "update_time": "2016/08/15",
+            "tags": [
+                {
+                    "name": "莉迪亚·戴维斯"
+                },
+                {
+                    "name": "美国文学"
+                },
+                {
+                    "name": "短篇小说"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "8.2w",
+            "share": "http://static.owspace.com/wap/292456.html",
+            "comment": "23",
+            "good": "67",
+            "bookmark": "0",
+            "show_uid": "328305",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292456.html",
+            "author": "莉迪亚·戴维斯",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/2.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292373",
+            "uid": "219178",
+            "name": "",
+            "title": "在驶向雾岛的\r\n渡轮上",
+            "excerpt": "朱岳被称为“中国的博尔赫斯”，他的短篇小说里闪现着一种智慧的神秘——一个仇恨告密者的神学家，一个自称卑微的档案管理员，在驶向雾岛的渡轮上相遇。",
+            "lead": "朱岳 2006 年发表短篇小说集《蒙着眼睛的旅行者》时，被出版社称为“中国的博尔赫斯”。他的文字里充满了神秘玄奥，也不乏奇幻斑斓，从结局追忆隐隐的各种细节，直至最后拍案称绝。十年后，这部小说集再次出版，这些富有智慧的虚构故事依旧没有过时。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-08-01/579ecd8422e30.jpg",
+            "create_time": "1470096000",
+            "update_time": "2016/08/02",
+            "tags": [
+                {
+                    "name": "朱岳"
+                },
+                {
+                    "name": "蒙着眼睛的旅行者"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "8.7w",
+            "share": "http://static.owspace.com/wap/292373.html",
+            "comment": "33",
+            "good": "107",
+            "bookmark": "0",
+            "show_uid": "219178",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292373.html",
+            "author": "朱岳",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com//Public/uploads/Picture/2016-10-10/57fb3704cf56b.jpg",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292335",
+            "uid": "294674",
+            "name": "",
+            "title": "冬日笔记",
+            "excerpt": "在人生的暮年，提笔追忆过往。三岁至六十岁的种种片段在脑海中盘旋，那些司空见惯的故事和难以启口的记忆，都被保罗·奥斯特书写在这里。\r\n",
+            "lead": "2011年1月3日，一个大雪纷飞的冬日，亦是一段老之将至的岁月。保罗·奥斯特开始追忆并记录他的人生，用局外人的角度审视自我，探讨关于生命和欲望的问题。我们为你呈现保罗·奥斯特《冬日笔记》中的一个片段，从错乱的时空和纷繁的细节中，你也许会回忆起自己的过往。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-07-22/5791f11446ac0.jpg",
+            "create_time": "1469318400",
+            "update_time": "2016/07/24",
+            "tags": [
+                {
+                    "name": "保罗·奥斯特"
+                },
+                {
+                    "name": "冬日笔记"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "3.9w",
+            "share": "http://static.owspace.com/wap/292335.html",
+            "comment": "26",
+            "good": "89",
+            "bookmark": "0",
+            "show_uid": "294674",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292335.html",
+            "author": "保罗·奥斯特",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/2.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292288",
+            "uid": "282325",
+            "name": "",
+            "title": "望春风",
+            "excerpt": "对于每一个中国人来说，乡村是无可回避的精神源泉。格非新作《望春风》完成了一次几乎不可能的返乡之旅，以回到“过去”来看“当下”的观念，余韵悠长。\r\n",
+            "lead": "这个来无踪去无影的妇人居然如此神通，她大清早急匆匆地赶来送信，想必有什么大事正在发生。格非获茅盾文学奖后的首部长篇《望春风》继续书写江南。今天分享小说第一章。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-07-11/57834d7eb77aa.jpg",
+            "create_time": "1468281600",
+            "update_time": "2016/07/12",
+            "tags": [
+                {
+                    "name": "格非"
+                },
+                {
+                    "name": "望春风"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "2.9w",
+            "share": "http://static.owspace.com/wap/292288.html",
+            "comment": "39",
+            "good": "104",
+            "bookmark": "0",
+            "show_uid": "282325",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292288.html",
+            "author": "格非",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/1.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292270",
+            "uid": "276561",
+            "name": "",
+            "title": "母亲的歌声\r\n仍未打动我",
+            "excerpt": "母亲的歌声让酒馆的满场观众沉醉，却无法取悦她的儿子。面对多年未见的母亲，“我”时常想要逃离她的目光。是时间，将感情切割得支离破碎。",
+            "lead": "这是科尔姆·托宾短篇小说集《母与子》里的一篇。这些短篇皆围绕母亲与儿子的关系，捕捉一个转折性时刻，在那一刻，母与子之间微妙的平衡被打破，或者他们对彼此的认识发生改变。托宾细致、优雅、流畅地刻画了各色男女，他们受制于习俗和情感，走不出过去的阴影。许多人陷入生活的泥淖，别无选择。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-07-07/577e3a0fb93c7.jpg",
+            "create_time": "1468195200",
+            "update_time": "2016/07/11",
+            "tags": [
+                {
+                    "name": "爱尔兰"
+                },
+                {
+                    "name": "周末酒馆"
+                },
+                {
+                    "name": "荐书"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "2.5w",
+            "share": "http://static.owspace.com/wap/292270.html",
+            "comment": "12",
+            "good": "64",
+            "bookmark": "0",
+            "show_uid": "276561",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292270.html",
+            "author": "科尔姆·托宾",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/2.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292262",
+            "uid": "275277",
+            "name": "",
+            "title": "路边“书法”",
+            "excerpt": "“娟娟发屋”、“公厕”、“施工重地”等手写牌匾和标语在街头随处可见。这些字稚拙扭捏，是“书法界”的歪瓜劣枣。但那一顿一提之间，也是别具风味。",
+            "lead": "在所见的众多当代人日常书写中，促使“我”动笔写书的是重庆的一块“娟娟发屋”招牌——没金框、没署款，也没印章，书写者控笔能力不强，笔划歪曲，简单又土气，但自然不造作，质朴有意趣，且留下想象空间。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-07-04/577a2a2bd5260.jpeg",
+            "create_time": "1467676800",
+            "update_time": "2016/07/05",
+            "tags": [
+                {
+                    "name": "书法"
+                },
+                {
+                    "name": "街头手写招牌"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "4.6w",
+            "share": "http://static.owspace.com/wap/292262.html",
+            "comment": "29",
+            "good": "92",
+            "bookmark": "0",
+            "show_uid": "275277",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292262.html",
+            "author": "白谦慎",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/4.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292240",
+            "uid": "271959",
+            "name": "",
+            "title": "我是一个\r\n被摧毁了的人",
+            "excerpt": "大岛渚的电影《感官世界》让人看到情色，但是性、暴力与犯罪其实都是他反抗现实的武器。即使从未参加过任何一场运动，但他骨子里却是一位“革命家”。",
+            "lead": "日本导演大岛渚颇具反叛意识，他的电影常以性和暴力为表现元素。拍摄电影让他不断“发现自己”。带着炽热的“革命”心态，他一直在为这个行业而努力。他说：“内心对革命的渴望原封不动地呈现在了我的作品里。” ",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-06-28/57724bfe027b6.jpeg",
+            "create_time": "1467244800",
+            "update_time": "2016/06/30",
+            "tags": [
+                {
+                    "name": "大岛渚"
+                },
+                {
+                    "name": "电影"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "5w",
+            "share": "http://static.owspace.com/wap/292240.html",
+            "comment": "22",
+            "good": "75",
+            "bookmark": "0",
+            "show_uid": "271959",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292240.html",
+            "author": "大岛渚",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/4.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292232",
+            "uid": "271322",
+            "name": "",
+            "title": "伦敦红了",
+            "excerpt": "通过公投，英国决定脱欧，但伦敦却离群地支持留欧。这或许让你想了解伦敦，这座“钟爱”红色，又在 1666 年的红红大火后重生的城市。",
+            "lead": "作为昔日的世界霸主，通过留欧与脱欧的讨论，英国再次获得全球性的关注。今天我们推送《伦敦传》的一章，讲述伦敦的红色，以及 1666 年的伦敦大火。《伦敦传》是一部呈现伦敦上下两千年的史书，从正史和民间传说到饮食和消遣娱乐。同时今天，单读微信也推送书中另外一章——关于这座城市如何在历史洪流中淬炼成形。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-06-27/5770ff334e6d5.jpg",
+            "create_time": "1467072000",
+            "update_time": "2016/06/28",
+            "tags": [
+                {
+                    "name": "伦敦"
+                },
+                {
+                    "name": "传记"
+                },
+                {
+                    "name": "火灾"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "5.4w",
+            "share": "http://static.owspace.com/wap/292232.html",
+            "comment": "7",
+            "good": "47",
+            "bookmark": "0",
+            "show_uid": "271322",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292232.html",
+            "author": "彼得·阿克罗伊德",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/1.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292215",
+            "uid": "268843",
+            "name": "",
+            "title": "刹那的孩子",
+            "excerpt": "抓住脑海中瞬间晃过的意象、念想，写下来，或一两句、或三四行，就是截句。如果诗人是母亲，那截句就是那名叫“刹那”的孩子，来自母亲的闪念。",
+            "lead": "截句是一种源自古典，同时又有现代精神的诗歌文体。没有诗歌题目，且必须在四行内完成。诗人往往在超短的篇幅中营造某种特殊氛围，展现人性中脆弱、柔软的部分。三言两语之间，戳中个体在现实、历史与梦幻中的隐秘痛点。很多人有两个身份，两个名字：显像的那个去工作、生活，当父亲、记者，挣钱养家；隐形的那个，则去写诗。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-06-22/576a69b1f3879.jpg",
+            "create_time": "1466812800",
+            "update_time": "2016/06/25",
+            "tags": [
+                {
+                    "name": "诗歌"
+                },
+                {
+                    "name": "蒋一谈等"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "3.7w",
+            "share": "http://static.owspace.com/wap/292215.html",
+            "comment": "17",
+            "good": "101",
+            "bookmark": "0",
+            "show_uid": "268843",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292215.html",
+            "author": "蒋一谈等 ",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/3.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292204",
+            "uid": "267832",
+            "name": "",
+            "title": "为何你要了解\r\n莎翁的时代",
+            "excerpt": "十七世纪的英国逐渐走向日不落帝国，莎士比亚戏剧横空出世，上承历史、描摹当下、吁叹悲喜，虽多聚焦勾栏酒肆的欢愉场，但其中深意为后人传颂。",
+            "lead": "有人认为“每个人都能在莎剧中看到自己命运的镜像”：一方面他是“时代之灵魂”，所有当代的冲突和变革，如地理大发现在莎剧中都有所反映。与此同时，他从不把自己限制在特定的历史框架之内，而是探究人类社会和人生的根本问题，因此他在任何时代都能得到共鸣。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-06-20/5767b7e999c17.jpg",
+            "create_time": "1466467200",
+            "update_time": "2016/06/21",
+            "tags": [
+                {
+                    "name": "莎士比亚时代"
+                },
+                {
+                    "name": "商业"
+                },
+                {
+                    "name": "戏剧"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "4.9w",
+            "share": "http://static.owspace.com/wap/292204.html",
+            "comment": "15",
+            "good": "101",
+            "bookmark": "0",
+            "show_uid": "267832",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292204.html",
+            "author": "季火君",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/3.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292172",
+            "uid": "229445",
+            "name": "",
+            "title": "流亡到\r\n世界边境",
+            "excerpt": "现实，虚构，强烈的色彩，与世隔绝的孤独，南美洲似乎总与辽远的想象联系在一起。作者登上了布宜诺斯艾利斯的夜车，开始在巴塔哥尼亚的自我流亡。",
+            "lead": "巴塔哥尼亚高原是一片充满了奇幻色彩的土地。童年的记忆让作者走进这个地方，开始一段想象与真实交织的旅程。作者用这本《巴塔哥尼亚高原上》，把一块边境之地推到世界的眼前。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-06-12/575d2750d212b.jpg",
+            "create_time": "1465948800",
+            "update_time": "2016/06/15",
+            "tags": [
+                {
+                    "name": "南美"
+                },
+                {
+                    "name": "巴塔哥尼亚"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "5.3w",
+            "share": "http://static.owspace.com/wap/292172.html",
+            "comment": "23",
+            "good": "122",
+            "bookmark": "0",
+            "show_uid": "229445",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292172.html",
+            "author": "布鲁斯·查特文",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/4.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292160",
+            "uid": "255626",
+            "name": "",
+            "title": "所有的荤腥\r\n都让我害怕",
+            "excerpt": "素食主义者坚持素食的原因各有不同。而“我”的老婆仅因为一场噩梦，便再也不能容忍家里出现任何肉食。她麻木的表情、僵硬的语气，让“我”害怕。",
+            "lead": "我们上周选摘布克奖小说《素食主义者》开头，很多读者留言表示愿意再多读一点。于是我们今天继续推荐这部小说，如果它也吸引你，可以在评论里告诉我们。后续是否继续推送，就看你们的意见了。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-06-07/57569ab80ce27.jpg",
+            "create_time": "1465776000",
+            "update_time": "2016/06/13",
+            "tags": [
+                {
+                    "name": "素食主义"
+                },
+                {
+                    "name": "韩江"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "5.4w",
+            "share": "http://static.owspace.com/wap/292160.html",
+            "comment": "198",
+            "good": "240",
+            "bookmark": "0",
+            "show_uid": "255626",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292160.html",
+            "author": "韩江",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/2.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292156",
+            "uid": "259179",
+            "name": "",
+            "title": "事物的味道\r\n我尝得太早",
+            "excerpt": "诗人石川啄木的生命，短得像来不及汇入海洋的河流。可他却用这短暂的一生，细细地尝过了大地的盐味。",
+            "lead": "诗人石川啄木生于日本明治时代，擅长用现代口语写传统短歌，开创了日本短歌新形式。本文选取石川啄木诗歌集《事物的味道，我尝得太早了》中的一首节选，由周作人翻译。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-06-06/5755396fa5669.jpg",
+            "create_time": "1465603200",
+            "update_time": "2016/06/11",
+            "tags": [
+                {
+                    "name": "诗歌"
+                },
+                {
+                    "name": "日本"
+                },
+                {
+                    "name": "石川啄木"
+                },
+                {
+                    "name": "周作人"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "5w",
+            "share": "http://static.owspace.com/wap/292156.html",
+            "comment": "34",
+            "good": "130",
+            "bookmark": "0",
+            "show_uid": "259179",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292156.html",
+            "author": "石川啄木",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/2.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292158",
+            "uid": "259787",
+            "name": "",
+            "title": "寿司之神",
+            "excerpt": "小野二郎是日本当代寿司大师。他的寿司能保持端整，筷子夹不坏，米饭粒粒分明，入口便化，可毫无障碍地滑入腹中。",
+            "lead": "小野二郎认为，对于握寿司的大小，刚适合入口的尺寸是最理想的，也是最好吃的。他会根据每个客人的情况，稍微变换大小。例如，给老人家和女性客人握小一点。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-06-08/5757b71251806.jpg",
+            "create_time": "1465430400",
+            "update_time": "2016/06/09",
+            "tags": [
+                {
+                    "name": "小野二郎"
+                },
+                {
+                    "name": "寿司"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "6.3w",
+            "share": "http://static.owspace.com/wap/292158.html",
+            "comment": "42",
+            "good": "178",
+            "bookmark": "0",
+            "show_uid": "259787",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292158.html",
+            "author": "小野二郎",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/3.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        }
+    ],
+    "msg": "",
+    "code": 0
+}
