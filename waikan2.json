@@ -1,0 +1,517 @@
+{
+    "status": "ok",
+    "datas": [
+        {
+            "id": "293012",
+            "uid": "1999",
+            "name": "",
+            "title": "全球杂志精选",
+            "excerpt": "我们选摘了全球各大媒体的文章，从新颖的视角去谈论常见的事物。其中包括从慢节奏里探讨思想性，从宗教探讨无信仰，从西方谈马克思，从积极面谈当代情色。",
+            "lead": "单读定期把全球各种媒体的文章，译介到中文世界。这周末，我们从《N+1》、《万古杂志》和《纽约客》挑选了三篇适合周末阅读的文章。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-10-21/580990b6406d9.jpg",
+            "create_time": "1477094400",
+            "update_time": "2016/10/22",
+            "tags": [
+                {
+                    "name": "杂志"
+                },
+                {
+                    "name": "精选"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "6w",
+            "share": "http://static.owspace.com/wap/293012.html",
+            "comment": "12",
+            "good": "16",
+            "bookmark": "0",
+            "show_uid": "1999",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/293012.html",
+            "author": "单读",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com//Public/uploads/Picture/2016-01-17/569b9c2490755.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292966",
+            "uid": "393365",
+            "name": "",
+            "title": "韩文的身世启示录",
+            "excerpt": "由于历史问题，韩国曾长时间使用汉字，被日文化统治。二战后，谚文复兴。而今日，汉字、日文与韩文，始终牵扯着政治变动、独立意识、权力关系等多重命题。",
+            "lead": "繁体字还是简体字？粤语还是普通话？台语还是汉字？汉字还是拉丁化的字母？现实中，语言与文字之争往往承载了它们自身之外的政治变动、身份危机、独立意识、权力关系等多重命题。而无可否认的事实是，无论语言还是文字，都无时不处于“变动”之中，语言和文字，可能被“纯化”吗？行政命令的影响，民间社会的取态，各在多大程度上可以影响语言和文字自身的发展？转眼近邻，曾身为中原藩属国、及后是日本殖民地、而后独立的韩国，也曾长久面临类似的问题，甚至到今天仍未休止，其本国文字谚文与汉字之争亦无时不卷入民族身份、独立意识、政府与民间、政治考量与经济需求的多重牵扯中，他山之石，那复杂多蔓的历史，真如一则民族身份觉醒的“故事”这样简单吗？",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-10-12/57fde24219ef4.jpg",
+            "create_time": "1476316800",
+            "update_time": "2016/10/13",
+            "tags": [
+                {
+                    "name": "端传媒"
+                },
+                {
+                    "name": "韩国文字身世"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "5.6w",
+            "share": "http://static.owspace.com/wap/292966.html",
+            "comment": "21",
+            "good": "22",
+            "bookmark": "0",
+            "show_uid": "393365",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292966.html",
+            "author": " 曾晓渝 ",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/2.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292963",
+            "uid": "392621",
+            "name": "",
+            "title": "堵在孟加拉",
+            "excerpt": "达卡，急速增长的人口导致的交通拥堵，让这座城市陷入困顿。交通上的死局，映照着发展中国家的特大城市所面临的共同问题。",
+            "lead": "如果你在孟加拉国的首都达卡待上一段时间，你将会重新审视并定义“交通”这个词。交通拥堵在达卡绝不是偶然有之的情况——它已成为一种常态，如同一场从未停止的风暴。——乔迪·罗森",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-10-11/57fcb80f8a4fb.jpg",
+            "create_time": "1476230400",
+            "update_time": "2016/10/12",
+            "tags": [
+                {
+                    "name": "孟加拉国"
+                },
+                {
+                    "name": "交通堵塞"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "4.9w",
+            "share": "http://static.owspace.com/wap/292963.html",
+            "comment": "19",
+            "good": "9",
+            "bookmark": "0",
+            "show_uid": "392621",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292963.html",
+            "author": "乔迪·罗森",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/1.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292915",
+            "uid": "378996",
+            "name": "",
+            "title": "大师们的分手信",
+            "excerpt": "哲学大师，一贯代表着人类的理性与智慧。但当面对着爱情的分别，他们的笔墨不再冷静，他们的精神也显出脆弱，他们的刻薄和委屈也与常人相近。",
+            "lead": "本文收录了几位著名哲人写给爱人的分手信的片段。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-09-28/57eb42cf0a0de.jpg",
+            "create_time": "1475985600",
+            "update_time": "2016/10/09",
+            "tags": [
+                {
+                    "name": "哲学家"
+                },
+                {
+                    "name": "分手信"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "10.6w",
+            "share": "http://static.owspace.com/wap/292915.html",
+            "comment": "63",
+            "good": "48",
+            "bookmark": "0",
+            "show_uid": "378996",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292915.html",
+            "author": "吴颍",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/3.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292911",
+            "uid": "378253",
+            "name": "",
+            "title": "等待一场\r\n改变",
+            "excerpt": "北韩的夜晚总是归于一片漆黑。因核武事件，北韩更加封闭与被动。国与国之间甚嚣尘上的谈判和一触即发的争端，都让生活其中每一个真实血肉的声音被淹没。",
+            "lead": "这是许多人眼中的北韩景象。由于缺少椅子或长凳，民众往往直接往地上一坐，一等几个小时，不管在路旁、公园、还是市场，都是如此。他们两眼直视前方，仿佛在等待什么——他们等待的是路面电车？也许。还是经过的车辆？朋友，或是亲人？也许他们并没有明确等待的东西，他们只是在等待改变。——芭芭拉·德米克",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-09-27/57ea3584e0689.jpg",
+            "create_time": "1475884800",
+            "update_time": "2016/10/08",
+            "tags": [
+                {
+                    "name": "朝鲜"
+                },
+                {
+                    "name": "核武"
+                },
+                {
+                    "name": "人民"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "8.7w",
+            "share": "http://static.owspace.com/wap/292911.html",
+            "comment": "60",
+            "good": "29",
+            "bookmark": "0",
+            "show_uid": "378253",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292911.html",
+            "author": "芭芭拉·德米克",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/1.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292918",
+            "uid": "379244",
+            "name": "",
+            "title": "林璎的静谧力量",
+            "excerpt": "因设计越战纪念碑而成名的林璎，以其对建筑艺术的沉思，表达了自然中的人文诗意。她坚决无视现代公众性的腐蚀，希望保持做一个艺术家，而不是一个明星。",
+            "lead": "生于美国，接受西方教育的林璎，却始终对东方建筑怀有着巨大的兴趣，而她在国内有另一个为人所熟知的称呼，便是“林徽因的侄女”。在一个长期将女性限制到辅助地位的西方建筑领域，女建筑师正在逐渐被接纳。建筑在现代主义阶段被看作是技术性的学科，也在被认同为艺术。基于家族深厚的底蕴，年少成名的林璎成功逃脱了业内名声机器的束缚。就算她所有的尝试都没能再次突破她 1981 年的成功——设计越南纪念碑，她已然成为一个榜样——一个在建筑界勇于尝试的女性。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-09-28/57eb9579790bd.jpg",
+            "create_time": "1475193600",
+            "update_time": "2016/09/30",
+            "tags": [
+                {
+                    "name": "林璎"
+                },
+                {
+                    "name": "建筑师"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "6.7w",
+            "share": "http://static.owspace.com/wap/292918.html",
+            "comment": "12",
+            "good": "25",
+            "bookmark": "0",
+            "show_uid": "379244",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292918.html",
+            "author": "马丁·菲勒",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/3.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292374",
+            "uid": "307590",
+            "name": "",
+            "title": "伦敦斯坦的\r\n最后保卫战",
+            "excerpt": "英国脱欧、德法接连遭受恐袭，这些冲突似乎都反映了欧洲社会正在发生的剧烈文化撞击。我们聚焦伦敦东区，看下层白人和穆斯林居民的纷扰如何愈演愈烈。",
+            "lead": " 2016 年 5 月 24 日，BBC 纪录片《伦敦东区的最后白人》一经播出便引发讨论。影片讲述伦敦东区内，那些因穆斯林移民的不断涌入而纷纷撤离的底层白人故事。从东区残存白人的视角来看待穆斯林移民问题，使该片成为非议焦点。但无论如何，白人工人阶级与穆斯林新移民之间互相鄙夷和歧视的恶性关系，从未如此清晰地展现在我们眼前。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-08-01/579f2f72297d2.jpg",
+            "create_time": "1471152000",
+            "update_time": "2016/08/14",
+            "tags": [
+                {
+                    "name": "伦敦斯坦"
+                },
+                {
+                    "name": "穆斯林移民"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "5.4w",
+            "share": "http://static.owspace.com/wap/292374.html",
+            "comment": "28",
+            "good": "27",
+            "bookmark": "0",
+            "show_uid": "307590",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292374.html",
+            "author": "Sean Kennedy",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/2.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292378",
+            "uid": "311270",
+            "name": "",
+            "title": "自由主义\r\n的妥协",
+            "excerpt": "美国精英纷纷对特朗普发起挞伐之时，硅谷巨头彼得·蒂尔近日在公开演说中宣称对他的支持。这位畅销书《从 0 到 1》的作者剑走偏锋，表达了对美国民主的顾虑。",
+            "lead": "今天单读的分享来自彼得·蒂尔多年前在社交媒体发布的一篇文章。文中，他讲述了对自由主义认识的转变。他不再相信自由与民主的兼容，更表达了对全民票选制的悲观态度，也由此提出一些可能的替代途径。你可以读到一位“自由主义者”如何在美国民主政治的亲身体验中修正自己的观点，从中也可以捕捉到他支持特朗普的思想原点。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-08-02/57a061fe3c8cc.jpg",
+            "create_time": "1470960000",
+            "update_time": "2016/08/12",
+            "tags": [
+                {
+                    "name": "川普"
+                },
+                {
+                    "name": "彼得·蒂尔"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "8.1w",
+            "share": "http://static.owspace.com/wap/292378.html",
+            "comment": "28",
+            "good": "57",
+            "bookmark": "0",
+            "show_uid": "311270",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292378.html",
+            "author": "彼得·蒂尔",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/2.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "292276",
+            "uid": "255959",
+            "name": "",
+            "title": "全世界的人\r\n都在读什么",
+            "excerpt": "这周末，我们为大家选摘全球各大媒体中的文章，关于蠢蠢欲动的其他脱欧国家、绘画与睡眠、城市街道的拥挤、家庭稳定。",
+            "lead": "单读定期把全球各种媒体的文章，译介到中文世界。这周末，我们从《赫芬顿邮报》、《经济学人》、《纽约时报》和《明镜》挑选四篇适合周末阅读的文章。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-07-07/577e3430af060.jpg",
+            "create_time": "1468713600",
+            "update_time": "2016/07/17",
+            "tags": [
+                {
+                    "name": "全世界的人都在读什么"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "4.4w",
+            "share": "http://static.owspace.com/wap/292276.html",
+            "comment": "19",
+            "good": "68",
+            "bookmark": "0",
+            "show_uid": "255959",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/292276.html",
+            "author": "KINOKOO",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/2.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "291947",
+            "uid": "100473",
+            "name": "",
+            "title": "全世界的人\r\n都在读什么",
+            "excerpt": "这周末，我们为大家选摘了全球重要的文学、思想杂志里的文章。本期三篇文章分别关注了作为文学评论家的奥巴马、现代纽约的造物主，以及色情片。",
+            "lead": "单读会定期把全球各领域重要杂志的文章，译介到中文世界。这次我们从《大西洋月刊》、《纽约书评》、《伦敦书评》和《泰晤士文学增刊》中摘选了三篇文章。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-04-15/5710c5a22aa96.jpg",
+            "create_time": "1460937600",
+            "update_time": "2016/04/18",
+            "tags": [
+                {
+                    "name": "杂志"
+                },
+                {
+                    "name": "精选"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "7.7w",
+            "share": "http://static.owspace.com/wap/291947.html",
+            "comment": "24",
+            "good": "110",
+            "bookmark": "0",
+            "show_uid": "100473",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/291947.html",
+            "author": "孙中伦",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com//Public/uploads/Picture/2016-10-18/5805c3bed3de9.jpeg",
+            "discover": "1",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "291904",
+            "uid": "158559",
+            "name": "",
+            "title": "谈论卡佛时\r\n我们谈论什么",
+            "excerpt": "雷蒙德·卡佛被认为是这个时代最伟大的短篇小说家之一。他的小说所真正关注的不是具体的某个人，而是笼罩在每个普通人头上的天空般的命运。",
+            "lead": "他塑造的是情绪。用他普通却充满张力的文字，用看似平淡却又危机四伏的故事。那些情绪就像命运投下的光线。无论是早期作品的冰寒彻骨，还是晚期作品泛出的些微暖意，都不过是命运之光在我们身上打出的明和暗。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-04-03/57011f61d031a.jpg",
+            "create_time": "1459987200",
+            "update_time": "2016/04/07",
+            "tags": [
+                {
+                    "name": "雷蒙德·卡佛"
+                },
+                {
+                    "name": "短篇小说"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "5.8w",
+            "share": "http://static.owspace.com/wap/291904.html",
+            "comment": "31",
+            "good": "182",
+            "bookmark": "0",
+            "show_uid": "158559",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/291904.html",
+            "author": "孔亚雷",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com//Public/uploads/Picture/2016-09-30/57ee1ba45a35c.jpeg",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        },
+        {
+            "id": "291569",
+            "uid": "38536",
+            "name": "",
+            "title": "速度与激情",
+            "excerpt": "【独家】技术和政治的发展在某种程度上意味着人们永远在后退、跟不上脚步，喘不上气。人们缺乏时间，而一种永恒不变的单调折磨着这个时代。",
+            "lead": "【独家】技术和政治的发展在某种程度上意味着人们永远在后退、跟不上脚步，喘不上气。人们缺乏时间，而一种永恒不变的单调折磨着这个时代。",
+            "model": "1",
+            "position": "0",
+            "thumbnail": "http://img.owspace.com/Public/uploads/Picture/2016-01-11/5693c7cc9cf2c.jpeg",
+            "create_time": "1452556800",
+            "update_time": "2016/01/12",
+            "tags": [
+                {
+                    "name": "外刊翻译"
+                },
+                {
+                    "name": "文学"
+                },
+                {
+                    "name": "文化"
+                },
+                {
+                    "name": "政治"
+                }
+            ],
+            "status": "1",
+            "video": "",
+            "fm": "",
+            "link_url": "",
+            "publish_time": "0",
+            "view": "15w",
+            "share": "http://static.owspace.com/wap/291569.html",
+            "comment": "82",
+            "good": "329",
+            "bookmark": "0",
+            "show_uid": "38536",
+            "fm_play": "",
+            "lunar_type": "1",
+            "html5": "http://static.owspace.com/wap/291569.html",
+            "author": "N+1",
+            "tpl": 1,
+            "avatar": "http://img.owspace.com/Public/static/avatar/3.png",
+            "discover": "0",
+            "category": "TO READ",
+            "hot_comments": [],
+            "parseXML": 1
+        }
+    ],
+    "msg": "",
+    "code": 0
+}
